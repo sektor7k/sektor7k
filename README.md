@@ -14,7 +14,7 @@
 <a href="https://twitter.com/sektor7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sektor7k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ömer aydın" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer aydın" height="30" width="40" /></a>
 <a href="https://medium.com/@omeraydin2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omeraydin2112" height="30" width="40" /></a>
-<a href="https://discord.gg/sektor7K#7405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sektor7K#7405" height="30" width="40" /></a>
+<a href="https://discord.gg/sektor7K#7405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sektor7K#7405" height="30" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
