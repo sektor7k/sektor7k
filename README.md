@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ömer</h1>
 <h3 align="center">A passionate blockchain and backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Proof Sci](https://github.com/sektor7k/ProofSci-Main)
+- 🔭 I’m currently working on [Project 3 Fusion](https://github.com/project3fusion))
 
 - 🌱 I’m currently learning **Rust, Actix-Web, Cario**
 
