@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Project 3 Fusion](https://github.com/project3fusion))
 
+- 🕵 Instructor  [Stark Learn](https://starklearn.com/))
+
 - 🌱 I’m currently learning **Rust, Actix-Web, Cario**
 
 - 💬 Ask me about **Blockchain**
