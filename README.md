@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ömer</h1>
-<h3 align="center">A passionate blockchain and backend developer from Turkey</h3>
+<h3 align="center">Only a tired and sad developer.</h3>
 
 - 🔭 I’m currently working on [Project 3 Fusion](https://github.com/project3fusion)
 
 - 🕵 Instructor  [Stark Learn](https://starklearn.com/)
 
-- 🌱 I’m currently learning **Rust, Actix-Web, Cario**
+- 🌱 I’m currently learning **Rust, Actix-Web, Cario, TypeScript**
 
 - 💬 Ask me about **Blockchain**
 
