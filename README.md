@@ -5,7 +5,7 @@
 
 - 🕵 Instructor  [Stark Learn](https://starklearn.com/)
 
-- 🌱 I’m currently learning **Rust, TypeScrip, Cario,**
+- 🌱 I’m currently learning **Rust, TypeScript, Cario,**
 
 - 💬 Ask me about **Blockchain**
 
