@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ömer</h1>
 <h3 align="center">You have to learn everything except JAVA.</h3>
 
-- 🔭 I’m currently working on [Project 3 Fusion](https://github.com/project3fusion)
+- 🔭 I’m currently working on [Castrum Legions](https://www.castrumlegions.com/)
 
 - 🕵 Instructor  [Stark Learn](https://starklearn.com/)
 
